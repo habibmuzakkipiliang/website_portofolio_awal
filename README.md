@@ -27,11 +27,12 @@ Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib
 
 ## **🔗 Media Sosial Resmi**
 
-- **Linktree**: [linktr.ee/habib_muzakki_piliang](https://linktr.ee/habib_muzakki_piliang)
-- **Instagram**: [@habib_muzakki_piliang](https://www.instagram.com/habib_muzakki_piliang)
-- **LinkedIn** : [habib muzakki piliang](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **TikTok**: [@habib_muzakki_piliang22](https://www.tiktok.com/@habib_muzakki_piliang22)
-- **Threads**: [@habib_muzakki_piliang](https://www.threads.net/@habib_muzakki_piliang)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@habib_muzakki_piliang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
+[![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
 
 ---
 
